@@ -9,7 +9,7 @@ VUE开源项目
 
 ###  目录
 - [国外总结资源@](#国外总结资源)
-- [完整App@](#完整App)
+- [完整项目@](#完整项目)
 - [框架@](#框架)
 
   
@@ -19,7 +19,7 @@ VUE开源项目
 
 * [awesome-vue](https://github.com/vuejs/awesome-vue) - 国外总结资源
 
-#### 完整App@
+#### 完整项目@
 
 * [酷狗](https://github.com/lavyun/vue-demo-kugou) - 模仿酷狗app
 * [卖座网](https://github.com/ChuckCZC/vue-demo-maizuo) - [用vue2模仿卖座网](http://m.maizuo.com/v4/?co=maizuo)
