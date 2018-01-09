@@ -1,4 +1,4 @@
-VUE开源项目
+VUE开源项目，期待大家和我们一起共同维护
 ==============
 * github排名榜单 [https://github.com/trending](https://github.com/trending)
 * github搜索榜单：[https://github.com/search](https://github.com/search)
