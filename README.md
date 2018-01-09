@@ -17,7 +17,7 @@ VUE开源项目
 #### 具体内容 =============================
 #### 国外总结资源@
 
-* [awesome-vue](https://github.com/vuejs/awesome-vue) - 国外总结资源
+* [awesome-vue](https://github.com/vuejs/awesome-vue) - vue国外总结资源比较完善的地址
 
 #### 完整项目@
 
