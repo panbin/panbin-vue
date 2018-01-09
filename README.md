@@ -32,4 +32,4 @@ VUE开源项目
 * [vue-beauty](https://fe-driver.github.io/vue-beauty) - vue-beauty 是一套基于 vue.js 和 ant-design样式 的PC端 UI 组件库，旨在帮助开发者提升产品体验和开发效率、降低维护成本
 * [vux](https://vux.li/#/) - Vux（读音 [v'ju:z]，同views）是基于WeUI和Vue(2.x)开发的移动端UI组件库，主要服务于微信页面
 * [element](http://element-cn.eleme.io/#/zh-CN) - Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
-* [vue-weui](https://github.com/adcentury/vue-weui) - 使用Vue封装，为微信Web服务量身设计（Work with WeUI 0.4.0+）
+* [vue-weui](https://github.com/adcentury/vue-weui) - 使用Vue封装，为微信Web服务量身设计（Work with WeUI 0.4.0+）[注意作者不再更新维护了](https://github.com/adcentury/vue-weui) 
